@@ -3,7 +3,7 @@ package tunnel
 import (
 	"fmt"
 
-	"github.com/metacubex/mihomo/component/mmdb"
+	"github.com/lingyicute/yiclashcore/component/mmdb"
 	"github.com/oschwald/maxminddb-golang"
 )
 

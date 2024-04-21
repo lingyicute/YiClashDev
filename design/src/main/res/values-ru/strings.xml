@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="PluralsCandidate">
-    <string name="launch_name">Clash Meta</string>
-    <string name="application_name">Clash Meta для Android</string>
+    <string name="launch_name">YiClash</string>
+    <string name="application_name">YiClash для Android</string>
 
     <string name="stopped">Остановлен</string>
     <string name="tap_to_start">Нажмите для запуска</string>
@@ -197,7 +197,7 @@
     <string name="import_from_clipboard">Импорт из буфера обмена</string>
     <string name="export_to_clipboard">Экспорт в буфер обмена</string>
 
-    <string name="clash_meta_for_android">Clash Meta для Android</string>
+    <string name="clash_meta_for_android">YiClash для Android</string>
 
     <string name="document">Документ</string>
     <string name="feedback">Обратная связь</string>
@@ -206,13 +206,13 @@
     <string name="clash_wiki">Clash Wiki</string>
     <string name="github_issues">Сообщения об ошибках на GitHub</string>
     <string name="google_play">Google Play</string>
-    <string name="clash_meta_core">Ядро Clash Meta</string>
+    <string name="clash_meta_core">Ядро YiClash</string>
     <string name="clash_wiki_url" translatable="false">https://github.com/Dreamacro/clash/wiki</string>
     <string name="meta_github_url" translatable="false">https://github.com/MetaCubeX/ClashMetaForAndroid</string>
     <string name="clash_meta_core_url" translatable="false">https://github.com/MetaCubeX/Clash.Meta</string>
 
     <string name="tips_properties"><![CDATA[Принимается только <strong>конфиг Clash</strong> (включая <strong>Прокси</strong>/<strong>Правила</strong>)]]></string>
-    <string name="tips_help"><![CDATA[Clash Meta для Android — <strong>бесплатен</strong> и мы <strong>НЕ</strong> предоставляем по нему поддержку]]></string>
+    <string name="tips_help"><![CDATA[YiClash для Android — <strong>бесплатен</strong> и мы <strong>НЕ</strong> предоставляем по нему поддержку]]></string>
 
     <string name="google_play_url" translatable="false">https://play.google.com/store/apps/details?id=com.github.kr328.clash</string>
 
@@ -276,7 +276,7 @@
 
     <string name="mode_switch_tips">Действует только для текущей сессии</string>
 
-    <string name="clash_meta_wiki">Clash Meta Wiki</string>
+    <string name="clash_meta_wiki">YiClash Wiki</string>
     <string name="clash_meta_wiki_url" translatable="false">https://docs.metacubex.one/</string>
 
     <string name="meta_features">Функции Meta</string>

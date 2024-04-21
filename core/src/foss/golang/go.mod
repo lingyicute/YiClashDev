@@ -46,7 +46,7 @@ require (
 	github.com/mdlayher/socket v0.4.1 // indirect
 	github.com/metacubex/gopacket v1.1.20-0.20230608035415-7e2f98a3e759 // indirect
 	github.com/metacubex/gvisor v0.0.0-20240320004321-933faba989ec // indirect
-	github.com/metacubex/mihomo v1.7.0 // indirect
+	github.com/lingyicute/yiclashcore v1.7.0 // indirect
 	github.com/metacubex/quic-go v0.42.1-0.20240319071510-a251e5c66a5c // indirect
 	github.com/metacubex/sing-quic v0.0.0-20240409064816-c16ac6b1f4b4 // indirect
 	github.com/metacubex/sing-shadowsocks v0.2.6 // indirect
@@ -110,6 +110,6 @@ replace github.com/sagernet/sing => github.com/metacubex/sing v0.0.0-20240111014
 
 replace cfa => ../../main/golang
 
-replace github.com/metacubex/mihomo => ./clash
+replace github.com/lingyicute/yiclashcore => ./clash
 
 replace cfa/blob => ../../../build/intermediates/golang_blob

@@ -12,5 +12,5 @@ import (
 
 	_ "golang.org/x/sync/semaphore"
 
-	_ "github.com/metacubex/mihomo/log"
+	_ "github.com/lingyicute/yiclashcore/log"
 )

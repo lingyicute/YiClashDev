@@ -9,12 +9,12 @@ import (
 
 	"github.com/Kr328/tun2socket"
 
-	"github.com/metacubex/mihomo/adapter/inbound"
-	"github.com/metacubex/mihomo/common/pool"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/log"
-	"github.com/metacubex/mihomo/transport/socks5"
-	"github.com/metacubex/mihomo/tunnel"
+	"github.com/lingyicute/yiclashcore/adapter/inbound"
+	"github.com/lingyicute/yiclashcore/common/pool"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/log"
+	"github.com/lingyicute/yiclashcore/transport/socks5"
+	"github.com/lingyicute/yiclashcore/tunnel"
 )
 
 var _, ipv4LoopBack, _ = net.ParseCIDR("127.0.0.0/8")

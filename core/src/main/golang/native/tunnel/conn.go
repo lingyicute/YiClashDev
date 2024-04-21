@@ -1,8 +1,8 @@
 package tunnel
 
 import (
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/tunnel/statistic"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/tunnel/statistic"
 )
 
 func CloseAllConnections() {

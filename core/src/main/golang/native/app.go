@@ -9,7 +9,7 @@ import (
 
 	"cfa/native/app"
 
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/log"
 )
 
 func openRemoteContent(url string) (int, error) {

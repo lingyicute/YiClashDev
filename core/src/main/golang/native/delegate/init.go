@@ -6,15 +6,15 @@ import (
 
 	"cfa/blob"
 
-	"github.com/metacubex/mihomo/component/process"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/component/process"
+	"github.com/lingyicute/yiclashcore/log"
 
 	"cfa/native/app"
 	"cfa/native/platform"
 
-	"github.com/metacubex/mihomo/component/dialer"
-	"github.com/metacubex/mihomo/component/mmdb"
-	"github.com/metacubex/mihomo/constant"
+	"github.com/lingyicute/yiclashcore/component/dialer"
+	"github.com/lingyicute/yiclashcore/component/mmdb"
+	"github.com/lingyicute/yiclashcore/constant"
 )
 
 var errBlocked = errors.New("blocked")

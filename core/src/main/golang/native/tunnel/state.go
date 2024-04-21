@@ -1,7 +1,7 @@
 package tunnel
 
 import (
-	"github.com/metacubex/mihomo/tunnel"
+	"github.com/lingyicute/yiclashcore/tunnel"
 )
 
 func QueryMode() string {

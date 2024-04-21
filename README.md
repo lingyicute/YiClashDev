@@ -1,4 +1,4 @@
-## Clash Meta for Android
+## YiClash
 
 A Graphical user interface of [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) for Android
 
@@ -8,7 +8,7 @@ Feature of [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta)
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/com.github.metacubex.clash.meta/)
+     height="80">](https://f-droid.org/packages/com.github.lingyi.clash.meta/)
 
 ### Requirement
 
@@ -49,14 +49,14 @@ Feature of [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta)
 
 ### Automation
 
-APP package name is `com.github.metacubex.clash.meta`
+APP package name is `com.github.lingyi.clash.meta`
 
 - Toggle Clash.Meta service status
-  - Send intent to activity `com.github.kr328.clash.ExternalControlActivity` with action `com.github.metacubex.clash.meta.action.TOGGLE_CLASH`
+  - Send intent to activity `com.github.kr328.clash.ExternalControlActivity` with action `com.github.lingyi.clash.meta.action.TOGGLE_CLASH`
 - Start Clash.Meta service
-  - Send intent to activity `com.github.kr328.clash.ExternalControlActivity` with action `com.github.metacubex.clash.meta.action.START_CLASH`
+  - Send intent to activity `com.github.kr328.clash.ExternalControlActivity` with action `com.github.lingyi.clash.meta.action.START_CLASH`
 - Stop Clash.Meta service
-  - Send intent to activity `com.github.kr328.clash.ExternalControlActivity` with action `com.github.metacubex.clash.meta.action.STOP_CLASH`
+  - Send intent to activity `com.github.kr328.clash.ExternalControlActivity` with action `com.github.lingyi.clash.meta.action.STOP_CLASH`
 - Import a profile
   - URL Scheme `clash://install-config?url=<encoded URI>` or `clashmeta://install-config?url=<encoded URI>`
 

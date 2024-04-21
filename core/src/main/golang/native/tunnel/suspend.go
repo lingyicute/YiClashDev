@@ -1,6 +1,6 @@
 package tunnel
 
-import "github.com/metacubex/mihomo/adapter/provider"
+import "github.com/lingyicute/yiclashcore/adapter/provider"
 
 func Suspend(s bool) {
 	provider.Suspend(s)

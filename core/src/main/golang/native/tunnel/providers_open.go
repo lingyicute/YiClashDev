@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"time"
 
-	P "github.com/metacubex/mihomo/adapter/provider"
-	"github.com/metacubex/mihomo/constant/provider"
-	"github.com/metacubex/mihomo/log"
-	"github.com/metacubex/mihomo/tunnel"
+	P "github.com/lingyicute/yiclashcore/adapter/provider"
+	"github.com/lingyicute/yiclashcore/constant/provider"
+	"github.com/lingyicute/yiclashcore/log"
+	"github.com/lingyicute/yiclashcore/tunnel"
 )
 
 var ErrInvalidType = errors.New("invalid type")

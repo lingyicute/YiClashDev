@@ -3,11 +3,11 @@ package tunnel
 import (
 	"sync"
 
-	"github.com/metacubex/mihomo/adapter"
-	"github.com/metacubex/mihomo/adapter/outboundgroup"
-	"github.com/metacubex/mihomo/constant/provider"
-	"github.com/metacubex/mihomo/log"
-	"github.com/metacubex/mihomo/tunnel"
+	"github.com/lingyicute/yiclashcore/adapter"
+	"github.com/lingyicute/yiclashcore/adapter/outboundgroup"
+	"github.com/lingyicute/yiclashcore/constant/provider"
+	"github.com/lingyicute/yiclashcore/log"
+	"github.com/lingyicute/yiclashcore/tunnel"
 )
 
 func HealthCheck(name string) {

@@ -3,7 +3,7 @@ package app
 import (
 	"strings"
 
-	"github.com/metacubex/mihomo/dns"
+	"github.com/lingyicute/yiclashcore/dns"
 )
 
 func NotifyDnsChanged(dnsList string) {

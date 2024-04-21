@@ -3,7 +3,7 @@ package config
 import (
 	"io"
 
-	"github.com/metacubex/mihomo/config"
+	"github.com/lingyicute/yiclashcore/config"
 )
 
 func forEachProviders(rawCfg *config.RawConfig, fun func(index int, total int, key string, provider map[string]any)) {

@@ -9,11 +9,11 @@ import (
 	"github.com/dlclark/regexp2"
 
 	"cfa/native/common"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/log"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/log"
 
-	"github.com/metacubex/mihomo/config"
-	"github.com/metacubex/mihomo/dns"
+	"github.com/lingyicute/yiclashcore/config"
+	"github.com/lingyicute/yiclashcore/dns"
 )
 
 var processors = []processor{

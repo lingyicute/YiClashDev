@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="launch_name">Clash Meta</string>
-    <string name="application_name">Clash Meta for Android</string>
+    <string name="launch_name">YiClash</string>
+    <string name="application_name">YiClash</string>
     <string name="stopped">停止中</string>
     <string name="tap_to_start">タップしてスタート</string>
     <string name="running">実行中</string>
@@ -163,7 +163,7 @@
     <string name="select_none">クリア</string>
     <string name="import_from_clipboard">クリップボードからインポート</string>
     <string name="export_to_clipboard">クリップボードにエクスポート</string>
-    <string name="clash_meta_for_android">Clash Meta for Android</string>
+    <string name="clash_meta_for_android">YiClash</string>
     <string name="document">ドキュメント</string>
     <string name="feedback">フィードバック</string>
     <string name="sources">ソース</string>
@@ -171,9 +171,9 @@
     <string name="clash_wiki">Clash Wiki</string>
     <string name="github_issues">Github Issues</string>
     <string name="google_play">Google Play</string>
-    <string name="clash_meta_core">Clash Meta Core</string>
+    <string name="clash_meta_core">YiClash Core</string>
     <string name="tips_properties"><![CDATA[<strong>Clashプロファイル</strong>のみご利用可能です(<strong>プロキシルール</strong>を含む)]]></string>
-    <string name="tips_help"><![CDATA[Clash Meta for Androidは<strong>無料アプリ</strong>です。当開発者は<strong>一切のプロキシサービスを提供していません。</strong> <strong>サービスに関する問い合わせはご遠慮ください。</strong>]]></string>
+    <string name="tips_help"><![CDATA[YiClashは<strong>無料アプリ</strong>です。当開発者は<strong>一切のプロキシサービスを提供していません。</strong> <strong>サービスに関する問い合わせはご遠慮ください。</strong>]]></string>
     <string name="app">アプリ</string>
     <string name="service">サービス</string>
     <string name="dark_mode">ダークモード</string>
@@ -218,8 +218,8 @@
     <string name="version_updated">アプリを更新しました</string>
     <string name="version_updated_tips">未設定のプロファイルは、再度保存する必要があります。</string>
     <string name="mode_switch_tips">このセッションでのみ有効です</string>
-    <string name="clash_meta_wiki">Clash Meta Wiki</string>
-    <string name="meta_features">Meta Features</string>
+    <string name="clash_meta_wiki">YiClash Wiki</string>
+    <string name="meta_features">YiClash 高级配置</string>
     <string name="unified_delay">Unified Delay</string>
     <string name="geodata_mode">Geodata Mode</string>
     <string name="tcp_concurrent">TCP Concurrent</string>

@@ -3,7 +3,7 @@ package tun
 import (
 	"net"
 
-	"github.com/metacubex/mihomo/dns"
+	"github.com/lingyicute/yiclashcore/dns"
 
 	D "github.com/miekg/dns"
 )

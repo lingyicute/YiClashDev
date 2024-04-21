@@ -3,8 +3,8 @@ package proxy
 import (
 	"sync"
 
-	"github.com/metacubex/mihomo/listener/http"
-	"github.com/metacubex/mihomo/tunnel"
+	"github.com/lingyicute/yiclashcore/listener/http"
+	"github.com/lingyicute/yiclashcore/tunnel"
 )
 
 var listener *http.Listener
